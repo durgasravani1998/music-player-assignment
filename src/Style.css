@@ -1,0 +1,22 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .playlist {
+    margin-top: 20px;
+  }
+  
+  .track {
+    margin-bottom: 10px;
+  }
+  
+  .playing-indicator {
+    color: green;
+  }
+  
+  .now-playing {
+    margin-top: 20px;
+  }
+  
